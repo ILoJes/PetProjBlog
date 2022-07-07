@@ -4,4 +4,4 @@ from .models import Post
 #admin.site.register(Post)
 # Register your models here.
 
-@admin.register(Post)
+#@admin.register(Post)
